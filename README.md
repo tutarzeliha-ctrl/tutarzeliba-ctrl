@@ -24,8 +24,8 @@ I build analytics using professional **dbt patterns**:
 
 ### Recent Project: sepetix-dbt-analytics
 - 5 data models (raw → staging → mart)
-- 4 automated tests (100% passing)
-- SQLite, complete documentation
+- 10+ automated tests (unique, not_null, accepted_values)
+- BigQuery, complete documentation
 - [View on GitHub](https://github.com/tutarzeliba-ctrl/sepetix-dbt-analytics)
 
 ---
